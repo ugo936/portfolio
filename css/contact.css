@@ -1,0 +1,35 @@
+body{
+background-color: black;
+}
+aside h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+aside p{
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+     background-color: blue;
+    color: white;
+    border: none;
+    width: 30%;
+    padding: 10px 30px 10px 30px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 10px;
+}
+form input{
+    width: 30%;
+    padding: 10px;
+    border: 10px;
+}
+form{
+     padding: 5%;
+    text-align: center;
+    width: 95%;
+}
